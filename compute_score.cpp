@@ -2,7 +2,7 @@
 #include <cassert>
 #include <iostream>
 #include <queue>
-#include <set>\
+#include <set>
 #include <string>
 #include <unordered_map>
 #include <vector>
